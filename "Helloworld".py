@@ -2,4 +2,5 @@
 "Welcome to python Bootcamp 2024 with Comit"
 "Class starts Jan 15 2024"
 "Introduction to Python"
-"Logic"
+"Intro to Logic"
+"What is Logic?"
